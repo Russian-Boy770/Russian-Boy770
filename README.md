@@ -1,6 +1,6 @@
 ### Hello World, I'm Maor
 Information about me: I'm Maor a (Starter) Developer from Israel
-My main programming language(s) are:
+My knowledge:
 
 -Python
 
