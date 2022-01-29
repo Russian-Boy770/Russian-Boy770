@@ -3,7 +3,7 @@ Information about me: I'm Maor a (Starter) Developer from Israel, My knowledge:
 
 -Python
 
--Learning JS
+-Javascript
 
 -Html
 
