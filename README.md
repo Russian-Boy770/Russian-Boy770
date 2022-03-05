@@ -19,4 +19,4 @@ For my MAL(MyAnimeList): [Click here](https://myanimelist.net/animelist/RussianB
 
 My Discord ```Russian Boy#5401```
 
-Feel free to contact me on discord my DMs always open
+Feel free to contact me on discord.
